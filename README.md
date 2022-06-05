@@ -2,7 +2,7 @@
 
 ## Main idea
 
-its a colaborative application make life easy and more organized for the shopping of house daily used stuffs like milk, bread, rice, sugar... etc
+Its a colaborative application make life easy and more organized for the shopping of house daily used stuffs like milk, bread, rice, sugar... etc
 
 1. When something is missing, one of the colaborated persons in the house put the requested good in the list.
 2. All collaborated persons see that list
@@ -26,3 +26,5 @@ It could use grographical location to remind you if you are near a preferred mar
 ### yet another enhacement
 
 it could hooked with a supermaket apps that will create a shopping requirement direct from the market
+
+![alt 'app flow diagram'](./assets/images/ColaboList_diagram.png)
